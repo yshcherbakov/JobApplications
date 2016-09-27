@@ -1,0 +1,126 @@
+2016-09-25 13:25:26,522 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 13:54:35,777 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 13:59:20,103 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:05:28,932 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:08:56,140 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:09:34,191 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:09:53,289 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:11:35,769 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:13:48,134 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:26:20,890 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:30:06,358 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:33:37,712 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:36:27,123 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 14:37:41,290 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:03:20,536 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:12:32,032 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:32:58,457 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:35:34,064 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:38:54,432 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:41:58,992 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:43:12,857 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:46:13,814 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:48:27,578 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:54:55,642 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 15:56:13,561 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:10:59,452 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:28:52,403 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:29:38,446 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:48:37,154 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:53:00,814 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:55:44,975 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:58:10,169 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 16:59:57,753 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 17:32:45,958 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 17:40:09,307 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:05:01,672 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:06:19,886 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:08:12,097 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:22:49,123 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:27:46,706 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:37:12,912 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:47:06,713 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:50:16,871 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:54:55,547 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:57:28,188 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 18:59:03,284 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 19:01:48,966 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 19:10:48,588 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 19:20:00,354 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 19:20:42,982 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 19:28:06,174 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 19:37:22,060 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 19:41:28,957 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 20:55:10,771 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:00:47,427 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:15:47,022 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:18:03,008 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:25:57,922 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:34:28,332 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:43:25,439 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:46:36,805 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 21:58:02,429 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 22:01:13,409 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 22:03:55,311 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 22:05:22,614 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 22:24:53,156 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 22:54:45,131 [23] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 22:55:35,232 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-25 23:11:17,784 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 12:28:56,404 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:04:10,394 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:04:22,358 [6] ERROR JobApplications.Web.MvcApplication - The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult SubmitApplicationAnswer(Int32)' in 'JobApplications.Web.Controllers.ApplicantController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2016-09-26 13:05:12,682 [9] ERROR JobApplications.Web.MvcApplication - The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult SubmitApplicationAnswer(Int32)' in 'JobApplications.Web.Controllers.ApplicantController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2016-09-26 13:05:43,764 [8] ERROR JobApplications.Web.MvcApplication - The parameters dictionary contains a null entry for parameter 'id' of non-nullable type 'System.Int32' for method 'System.Web.Mvc.ActionResult SubmitApplicationAnswer(Int32)' in 'JobApplications.Web.Controllers.ApplicantController'. An optional parameter must be a reference type, a nullable type, or be declared as an optional parameter.
+Parameter name: parameters
+2016-09-26 13:11:16,265 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:34:44,149 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:38:14,302 [8] ERROR JobApplications.Web.MvcApplication - c:\Projects\SAJ\JobApplications\JobApplications.Web\Views\Applicant\Index.aspx(14): error CS1963: An expression tree may not contain a dynamic operation
+2016-09-26 13:38:46,012 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:38:54,163 [7] ERROR JobApplications.Web.MvcApplication - c:\Projects\SAJ\JobApplications\JobApplications.Web\Views\Applicant\Index.aspx(14): error CS1963: An expression tree may not contain a dynamic operation
+2016-09-26 13:39:30,601 [6] ERROR JobApplications.Web.MvcApplication - c:\Projects\SAJ\JobApplications\JobApplications.Web\Views\Applicant\Index.aspx(14): error CS1963: An expression tree may not contain a dynamic operation
+2016-09-26 13:40:02,852 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:40:24,807 [10] ERROR JobApplications.Web.MvcApplication - c:\Projects\SAJ\JobApplications\JobApplications.Web\Views\Applicant\Index.aspx(14): error CS1963: An expression tree may not contain a dynamic operation
+2016-09-26 13:42:38,809 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:42:46,120 [7] ERROR JobApplications.Web.MvcApplication - c:\Projects\SAJ\JobApplications\JobApplications.Web\Views\Applicant\Index.aspx(14): error CS1963: An expression tree may not contain a dynamic operation
+2016-09-26 13:43:47,936 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 13:43:54,735 [7] ERROR JobApplications.Web.MvcApplication - c:\Projects\SAJ\JobApplications\JobApplications.Web\Views\Applicant\Index.aspx(14): error CS1963: An expression tree may not contain a dynamic operation
+2016-09-26 13:52:03,089 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 14:06:57,898 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 14:07:12,601 [9] ERROR JobApplications.Web.MvcApplication - c:\Projects\SAJ\JobApplications\JobApplications.Web\Views\Applicant\Index.aspx(37): error CS1061: 'JobApplications.Model.Applicant.ApplicationQualificationModel' does not contain a definition for 'ValidAnswers' and no extension method 'ValidAnswers' accepting a first argument of type 'JobApplications.Model.Applicant.ApplicationQualificationModel' could be found (are you missing a using directive or an assembly reference?)
+2016-09-26 14:15:08,347 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 14:23:13,211 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 14:34:51,141 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 14:36:07,947 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 15:24:29,231 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-26 15:29:13,470 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 10:57:35,079 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 11:01:18,587 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 14:02:56,363 [180] ERROR JobApplications.Web.MvcApplication - An error occurred while executing the command definition. See the inner exception for details.
+2016-09-27 14:06:50,883 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 14:13:09,927 [24] ERROR JobApplications.Web.MvcApplication - An error occurred while executing the command definition. See the inner exception for details.
+2016-09-27 14:18:57,148 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 14:20:38,505 [7] ERROR JobApplications.Web.MvcApplication - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerWrapper'.
+2016-09-27 14:22:04,441 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 14:25:11,999 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 14:54:49,630 [34] ERROR JobApplications.Web.MvcApplication - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerWrapper'.
+2016-09-27 14:56:44,131 [46] ERROR JobApplications.Web.MvcApplication - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerWrapper'.
+2016-09-27 15:00:43,604 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 15:11:41,283 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 15:31:13,795 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 15:54:40,902 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 16:01:14,752 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 16:08:56,251 [38] ERROR JobApplications.Web.MvcApplication - Error executing child request for handler 'System.Web.Mvc.HttpHandlerUtil+ServerExecuteHttpHandlerWrapper'.
+2016-09-27 16:21:19,770 [22] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 16:22:05,421 [25] ERROR JobApplications.Web.MvcApplication - Unable to connect to SQL Server database.
+2016-09-27 16:22:39,595 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 16:51:17,202 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 16:51:25,310 [13] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 16:51:25,754 [11] ERROR JobApplications.Web.MvcApplication - The controller for path '/__browserLink/requestData/16ed2a4d2a374ec3aa378040db527712' was not found or does not implement IController.
+2016-09-27 17:03:57,234 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 17:16:30,370 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 17:28:56,800 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 17:34:37,040 [1] INFO JobApplications.Web.MvcApplication - Application_Start
+2016-09-27 17:41:10,501 [1] INFO JobApplications.Web.MvcApplication - Application_Start

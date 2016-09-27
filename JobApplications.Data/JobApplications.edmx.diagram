@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4a009d07a83d4b9cb0cb331aaa93c244" Name="Diagram1" >
+        <EntityTypeShape EntityType="JobApplicationsModel.Answer" Width="1.5" PointX="3" PointY="1" />
+        <EntityTypeShape EntityType="JobApplicationsModel.Application" Width="1.5" PointX="3" PointY="5" />
+        <EntityTypeShape EntityType="JobApplicationsModel.Qualification" Width="1.5" PointX="5.25" PointY="1" />
+        <EntityTypeShape EntityType="JobApplicationsModel.Question" Width="1.5" PointX="0.75" PointY="1.125" />
+        <AssociationConnector Association="JobApplicationsModel.FK_Answer_Question" />
+        <AssociationConnector Association="JobApplicationsModel.FK_Qualification_Answer" />
+        <AssociationConnector Association="JobApplicationsModel.FK_Qualification_Application" />
+        <AssociationConnector Association="JobApplicationsModel.FK_Qualification_Question" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
